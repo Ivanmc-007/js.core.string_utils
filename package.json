@@ -1,0 +1,16 @@
+{
+   "name": "js.core.string_utils",
+   "version": "1.0.0",
+   "description": "Class StringUtils with useful static functions.",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "string_utils",
+      "stringutils",
+      "js.core.string_utils"
+   ],
+   "author": "ivanmc-007",
+   "license": "ISC"
+}
