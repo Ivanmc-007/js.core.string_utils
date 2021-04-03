@@ -11,6 +11,10 @@
       "stringutils",
       "js.core.string_utils"
    ],
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Ivanmc-007/js.core.string_utils"
+   },
    "author": "ivanmc-007",
    "license": "ISC"
 }
